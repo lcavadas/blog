@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31980255-cb48-4e5a-bdac-ef3b603bb3a7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2014/11/28/markdown-and-html.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2014/11/29/feature-images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2014/11/30/sample-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/sample_feature_img.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/sample_feature_img_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lcavadas.github.io.iml" afterPath="" />
+    <list default="true" id="31980255-cb48-4e5a-bdac-ef3b603bb3a7" name="Default" comment="cleaning the built site">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lcavadas.github.io.iws" />
@@ -95,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -136,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_posts/2014-11-28-markdown-and-html.md" />
@@ -146,6 +132,7 @@
         <option value="$PROJECT_DIR$/_posts/2014-11-29-feature-images.md" />
         <option value="$PROJECT_DIR$/_posts/2014-11-30-sample-post.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -657,7 +644,7 @@
       <created>1423619290852</created>
       <option name="number" value="Default" />
       <updated>1423619290852</updated>
-      <workItem from="1423619296481" duration="4482000" />
+      <workItem from="1423619296481" duration="4540000" />
     </task>
     <task id="LOCAL-00001" summary="config adjustments">
       <created>1423627595430</created>
@@ -665,15 +652,21 @@
       <option name="project" value="LOCAL" />
       <updated>1423627595430</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cleaning the built site">
+      <created>1423627756872</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1423627756872</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4482000" />
+    <option name="totallyTimeSpent" value="4540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -695,7 +688,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21459228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21459228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -720,7 +713,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="config adjustments" />
-    <option name="LAST_COMMIT_MESSAGE" value="config adjustments" />
+    <MESSAGE value="cleaning the built site" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaning the built site" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -881,8 +875,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
