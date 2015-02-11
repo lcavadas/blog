@@ -10,7 +10,7 @@ layout: default
 
   <div class="posts">
     {% for post in paginator.posts %}
-      {% if post.hide != true %}
+      {% if post.published %}
       <div class="post-teaser">
 
         <header>
